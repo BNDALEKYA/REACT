@@ -1,0 +1,31 @@
+
+
+Get - http://localhost:9000/api/employee    
+
+
+
+for get all details
+Get all - http://localhost:9000/api/employee/all
+
+
+
+for get single detail
+Get - http://localhost:9000/api/employee/1001
+
+
+
+for adding new detail
+Post - http://localhost:9000/api/employee/1002
+
+
+
+for updating existing detail
+Put - http://localhost:9000/api/employee/1002
+
+
+
+for deleting detail
+Delete - http://localhost:9000/api/employee/delete/1002
+
+
+React server proxy: http://localhost:3000
